@@ -96,17 +96,22 @@ My goal is to become a skilled software developer by building meaningful project
 
 ### 📌 Featured Projects
 
+#### 🤖 Nova- Personal AI Agent
+An AI-powered personal assistant that generates Python projects, runs them in Docker containers, supports interactive input/output, and detects and explains programming errors.
+
+**Technologies:** Python, Streamlit, Google Gemini API, Docker
+
 #### 📝 Online Quiz Making System
 A web-based application designed to conduct quizzes, evaluate answers, and display user performance.
 
 **Technologies:** HTML, CSS, JavaScript, Node.js, Express.js
 
-#### 🤖 ResumeAI — ATS Resume Builder
+#### 🤖 ResumeAI – ATS Resume Builder
 A resume analysis application that explores ATS scoring, job description matching, and AI-powered improvement suggestions.
 
 **Technologies:** Python, Streamlit, Google Gemini API
 
-#### 📸 SmartAttend — AI-Based Automated Attendance System
+#### 📸 SmartAttend – AI-Based Automated Attendance System
 An AI-based project exploring face detection and recognition for automated classroom attendance.
 
 **Technologies:** Python, OpenCV, MySQL, Face Recognition
